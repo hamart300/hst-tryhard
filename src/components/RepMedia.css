@@ -1,0 +1,26 @@
+.nowrapstyle {
+    white-space:nowrap;
+    overflow-x:hidden
+}
+
+.nowrapstyle:hover {
+    white-space:nowrap;
+    overflow-x:auto
+
+}
+
+.repcard {
+    border:1px solid;
+    border-top: 0px;
+}
+
+.MuiCardHeader-root {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background:lightgrey;
+}
+
+.MuiCardContent-root {
+    padding: 0px;
+    background: lightblue;
+}

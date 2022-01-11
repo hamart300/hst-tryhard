@@ -1,0 +1,27 @@
+
+.wlspan span {
+    border-radius: 5px;
+    float: left;
+    width: 20px;
+    align-self:center;
+}
+
+.replaysModal {
+    position:absolute;
+    width:80vw;
+    height:600;
+    top:10vh;
+    left:10vw;
+    background-color:beige;
+}
+
+.nowrapstyle {
+    white-space:nowrap;
+    overflow-x:hidden;
+}
+
+.butt   {
+    border:5px;
+    background-color: red;
+    font-size:78;
+}
